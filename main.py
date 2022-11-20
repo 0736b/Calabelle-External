@@ -15,12 +15,17 @@ if __name__ == '__main__':
             pls_not_ban_me.range_on()
             pls_not_ban_me.aoe_on()
             pls_not_ban_me.movespd_on()
+            pls_not_ban_me.nostun_on()
             pls_not_ban_me.autocast_on()
             pls_not_ban_me.auracd_on()
             pls_not_ban_me.bm1cd_on()
             pls_not_ban_me.bm2cd_on()
             pls_not_ban_me.bm3cd_on()
             pls_not_ban_me.wallhack_on()
+            # pls_not_ban_me.nsd_on()
+            # pls_not_ban_me.killgate_on()
+            # pls_not_ban_me.combobar_on()
+            # pls_not_ban_me.combopoint_on()
     except KeyboardInterrupt:
         pass
     print('Exit')
