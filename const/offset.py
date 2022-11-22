@@ -13,3 +13,7 @@ move_spd = [0x204]                   # Movement speed
 kill_gate = [0x72E4]                 # Kill gate / Walk through
 map_in = [0x72E4]                    # Map in [57]     
 auto_cast = [0x3578]                 # Auto cast
+p_level = [0x4704]                   # Player's Level
+p_str = [0x49BC]                     # Player's STR
+p_int = [0x49C0]                     # Player's INT
+p_dex = [0x49C4]                     # Player's DEX
