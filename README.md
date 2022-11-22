@@ -1,4 +1,5 @@
 <p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/fr/0/09/Cabal_Online_Logo.png" width="400px"/>
   <br>
   <b>Calabelle-External</b>
   <br>
